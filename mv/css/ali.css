@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 1092713 */
-  src: url('https://blog.lhht.cc/mv/font_1092713_dms9qesqr9u.woff2') format('woff2'),
-       url('https://blog.lhht.cc/mv/font_1092713_dms9qesqr9u.woff') format('woff'),
-       url('https://blog.lhht.cc/mv/font_1092713_dms9qesqr9u.ttf') format('truetype');
+  src: url('./font.woff2') format('woff2'),
+       url('./font.woff') format('woff'),
+       url('./font.ttf') format('truetype');
 }
 
 .iconfont {
